@@ -9,7 +9,7 @@ import org.junit.jupiter.api.Test;
 
 import controllers.MainController;
 
-
+//megjegyzés
 public class TestWeight {
     MainController mc;
     @BeforeEach
